@@ -1,0 +1,6 @@
+学习外文论文：An efficient forward‑secure group certificate digital signature scheme to enhance EMR authentication process
+          注：该论文学习到介绍部分，讲述了具有前向安全性的数字签名方案在电子医疗记录（EMR）的使用，论文目的为，使用rsa算法没有考虑到私钥丢失或者成员离职情况，所以需要定期更新私钥。
+              对已离职的成员密钥需要进行处理，这里有一个新的idea，论文中提到，每一个成员没有预先设置好更新私钥的时间T，已确保减少算法的高效性，减小空间复杂度。
+做作业：学术英语理工、线性系统理论作业。
+陌陌单词
+400m训练
